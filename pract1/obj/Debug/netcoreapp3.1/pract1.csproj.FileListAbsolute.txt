@@ -1,0 +1,11 @@
+/Users/ilyaletenkov/Projects/pract1/pract1/bin/Debug/netcoreapp3.1/pract1
+/Users/ilyaletenkov/Projects/pract1/pract1/bin/Debug/netcoreapp3.1/pract1.deps.json
+/Users/ilyaletenkov/Projects/pract1/pract1/bin/Debug/netcoreapp3.1/pract1.runtimeconfig.json
+/Users/ilyaletenkov/Projects/pract1/pract1/bin/Debug/netcoreapp3.1/pract1.runtimeconfig.dev.json
+/Users/ilyaletenkov/Projects/pract1/pract1/bin/Debug/netcoreapp3.1/pract1.dll
+/Users/ilyaletenkov/Projects/pract1/pract1/bin/Debug/netcoreapp3.1/pract1.pdb
+/Users/ilyaletenkov/Projects/pract1/pract1/obj/Debug/netcoreapp3.1/pract1.csprojAssemblyReference.cache
+/Users/ilyaletenkov/Projects/pract1/pract1/obj/Debug/netcoreapp3.1/pract1.AssemblyInfoInputs.cache
+/Users/ilyaletenkov/Projects/pract1/pract1/obj/Debug/netcoreapp3.1/pract1.AssemblyInfo.cs
+/Users/ilyaletenkov/Projects/pract1/pract1/obj/Debug/netcoreapp3.1/pract1.dll
+/Users/ilyaletenkov/Projects/pract1/pract1/obj/Debug/netcoreapp3.1/pract1.pdb
